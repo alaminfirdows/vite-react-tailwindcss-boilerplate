@@ -9,5 +9,17 @@ Just another boilerplate for Vite.js, React.js and Tailwindcss
 # Installation
 
 ```
-git@github.com:com:alaminfirdows/vite-react-tailwindcss-boilerplate.git
+npx degit alaminfirdows/vite-react-tailwindcss-boilerplate.git my-app
+```
+
+```
+cd my-app
+```
+
+```
+npm install
+```
+
+```
+npm run dev
 ```
